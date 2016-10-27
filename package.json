@@ -1,0 +1,17 @@
+{
+  "name": "parabola-motion",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "parabola-motion": "./index.js"
+  },
+  "author": "Iqbal Mohammad Abdul Ghoni",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
